@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/React-Keeper-Note-App/static/js/main.d3e5737a.chunk.js",
+    "main.js.map": "/React-Keeper-Note-App/static/js/main.d3e5737a.chunk.js.map",
+    "runtime-main.js": "/React-Keeper-Note-App/static/js/runtime-main.661f526f.js",
+    "runtime-main.js.map": "/React-Keeper-Note-App/static/js/runtime-main.661f526f.js.map",
+    "static/js/2.f5de51ba.chunk.js": "/React-Keeper-Note-App/static/js/2.f5de51ba.chunk.js",
+    "static/js/2.f5de51ba.chunk.js.map": "/React-Keeper-Note-App/static/js/2.f5de51ba.chunk.js.map",
+    "index.html": "/React-Keeper-Note-App/index.html",
+    "precache-manifest.55ecdf9082e2ee482bc9fc319e8112ee.js": "/React-Keeper-Note-App/precache-manifest.55ecdf9082e2ee482bc9fc319e8112ee.js",
+    "service-worker.js": "/React-Keeper-Note-App/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.661f526f.js",
+    "static/js/2.f5de51ba.chunk.js",
+    "static/js/main.d3e5737a.chunk.js"
+  ]
+}
